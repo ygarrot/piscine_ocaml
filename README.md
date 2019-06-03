@@ -1,1 +1,2 @@
-# piscine_ocaml
+# piscineOcaml
+42 bootcamp ocaml

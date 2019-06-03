@@ -1,0 +1,6 @@
+Molecule.cmo : atom.cmi Molecule.cmi
+Molecule.cmx : atom.cmx Molecule.cmi
+atom.cmo : atom.cmi
+atom.cmx : atom.cmi
+main.cmo : Molecule.cmi atom.cmi
+main.cmx : Molecule.cmx atom.cmx

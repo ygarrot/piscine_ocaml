@@ -1,0 +1,4 @@
+atom.cmo : atom.cmi
+atom.cmx : atom.cmi
+main.cmo : atom.cmi
+main.cmx : atom.cmx

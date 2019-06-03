@@ -1,0 +1,4 @@
+game.cmo : game.cmi
+game.cmx : game.cmi
+main.cmo : game.cmi
+main.cmx : game.cmx

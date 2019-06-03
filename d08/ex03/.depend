@@ -1,0 +1,10 @@
+Molecule.cmo : atom.cmi Molecule.cmi
+Molecule.cmx : atom.cmx Molecule.cmi
+alkane.cmo : Molecule.cmi atom.cmi alkane.cmi
+alkane.cmx : Molecule.cmx atom.cmx alkane.cmi
+atom.cmo : atom.cmi
+atom.cmx : atom.cmi
+main.cmo : alkane.cmi
+main.cmx : alkane.cmx
+reaction.cmo : Molecule.cmi
+reaction.cmx : Molecule.cmx

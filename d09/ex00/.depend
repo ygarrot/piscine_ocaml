@@ -1,0 +1,4 @@
+main.cmo : watchtower.cmi
+main.cmx : watchtower.cmx
+watchtower.cmo : watchtower.cmi
+watchtower.cmx : watchtower.cmi

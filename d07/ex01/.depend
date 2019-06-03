@@ -1,0 +1,6 @@
+doctor.cmo : people.cmi doctor.cmi
+doctor.cmx : people.cmx doctor.cmi
+main.cmo : people.cmi doctor.cmi
+main.cmx : people.cmx doctor.cmx
+people.cmo : people.cmi
+people.cmx : people.cmi
